@@ -1,0 +1,18 @@
+require("moose.plugins-setup")
+require("moose.core.options")
+require("moose.core.keymaps")
+require("moose.core.colorscheme")
+require("moose.plugins.comment")
+require("moose.plugins.nvim-tree")
+require("moose.plugins.lualine")
+require("moose.plugins.telescope")
+require("moose.plugins.nvim-cmp")
+require("moose.plugins.lsp.mason")
+require("moose.plugins.lsp.lspsaga")
+require("moose.plugins.lsp.lspconfig")
+require("moose.plugins.lsp.null-ls")
+require("moose.plugins.autopairs")
+require("moose.plugins.treesitter")
+require("moose.plugins.gitsigns")
+
+-- vim.o.guicursor = vim.o.guicursor .. ",a:ver1"
