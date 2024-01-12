@@ -1,6 +1,6 @@
 # Nvim configuration
 
-This project customizes your nvim to look much better that the default one
+This project customizes your nvim to look much better than the default one
 
 
 
@@ -41,7 +41,7 @@ You need to install:
 
   i added two things in the **options.lua** file, line 40 and 43 which were giving me problems
 
-  line 40 is for disabling the list option in which it was displaying a dollar sign "$" at the end of every line
+  line 40 is for disabling the list option in which it was displaying a **dollar sign "$"** at the end of every line
 
   line 43 is for having a line cursor in insert mode and a block cursor when out of insert mode
 
