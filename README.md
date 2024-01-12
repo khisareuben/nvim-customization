@@ -1,3 +1,5 @@
+You need to have nvim v8 and above installed, nodejs and npm
+
 for more information you can go to the link below as he is the one who taught me through his youtube video
 
 https://github.com/josean-dev/dev-environment-files/blob/packer-nvim-setup/README.md
