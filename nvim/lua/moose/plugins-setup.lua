@@ -107,6 +107,9 @@ return packer.startup(function(use)
 	-- git integration
 	use("lewis6991/gitsigns.nvim") -- show line modifications on left hand side
 
+	-- add vim-lorem-ipsum plugin
+	use("vim-scripts/loremipsum")
+
 	if packer_bootstrap then
 		require("packer").sync()
 	end
