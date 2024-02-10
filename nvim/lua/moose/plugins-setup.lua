@@ -110,6 +110,8 @@ return packer.startup(function(use)
 	-- add vim-lorem-ipsum plugin
 	use("vim-scripts/loremipsum")
 
+	use("Yggdroot/indentLine")
+
 	if packer_bootstrap then
 		require("packer").sync()
 	end
