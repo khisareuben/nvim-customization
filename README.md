@@ -16,7 +16,7 @@ You need to install:
   ## clone the repository 
   git clone ...
 
-  ## move or copy the file to this directory
+  ## move or copy the nvim file to this directory
   ~/.config
 
   if it already exits then delete the old one and
